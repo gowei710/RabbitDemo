@@ -1,0 +1,9 @@
+E:\NETCore\中小型\RabbitMQDemo\01基本用法\Publisher\obj\Debug\Publisher.csprojResolveAssemblyReference.cache
+E:\NETCore\中小型\RabbitMQDemo\01基本用法\Publisher\obj\Debug\Publisher.csproj.CoreCompileInputs.cache
+E:\NETCore\中小型\RabbitMQDemo\01基本用法\Publisher\bin\Debug\Publisher.exe.config
+E:\NETCore\中小型\RabbitMQDemo\01基本用法\Publisher\bin\Debug\Publisher.exe
+E:\NETCore\中小型\RabbitMQDemo\01基本用法\Publisher\bin\Debug\Publisher.pdb
+E:\NETCore\中小型\RabbitMQDemo\01基本用法\Publisher\bin\Debug\RabbitMQ.Client.dll
+E:\NETCore\中小型\RabbitMQDemo\01基本用法\Publisher\bin\Debug\RabbitMQ.Client.xml
+E:\NETCore\中小型\RabbitMQDemo\01基本用法\Publisher\obj\Debug\Publisher.exe
+E:\NETCore\中小型\RabbitMQDemo\01基本用法\Publisher\obj\Debug\Publisher.pdb

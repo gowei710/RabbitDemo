@@ -1,0 +1,2 @@
+E:\NETCore\中小型\RabbitMQDemo\02主题发布订阅\Consumer\obj\Debug\Consumer.csprojResolveAssemblyReference.cache
+E:\NETCore\中小型\RabbitMQDemo\02主题发布订阅\Consumer\obj\Debug\Consumer.csproj.CoreCompileInputs.cache
